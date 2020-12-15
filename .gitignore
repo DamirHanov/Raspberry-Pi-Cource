@@ -1,3 +1,4 @@
 *.pdf
 *.log
 Possible_solution*
+/.ipynb_checkpoints
